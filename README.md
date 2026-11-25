@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻Software Development Projects:</h2>
 
 <ul>
-  <li>[Project 1](link)</li>
-  <li>[Project 2](link)</li>
-  <li>[Project 3](link)</li>
+  <li> Notes App (https://github.com/freyaciotti064-cpu/NotesApp)</li>
+  <li> Project 2 (link)</li>
+  <li> Project 3 (link)</li>
 </ul>
